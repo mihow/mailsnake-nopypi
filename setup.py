@@ -27,5 +27,5 @@ setup(name = 'mailsnake',
     classifiers = CLASSIFIERS,
     keywords = KEYWORDS,
     zip_safe = True,
-    install_requires=['distribute']
+    #install_requires=['distribute']
 )
